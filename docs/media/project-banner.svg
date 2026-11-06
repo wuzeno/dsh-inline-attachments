@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img">
+<rect width="1600" height="640" fill="#10243a"/>
+<text x="75" y="62" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#79d6d6">DSH / INLINE ATTACHMENTS</text>
+<text x="75" y="125" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#ffffff">Files belong in the sentence.</text>
+<text x="78" y="220" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#c5d5e3">Position-aware references. Compact labels. Contextual image previews.</text>
+<rect x="75" y="322" width="1450" height="174" rx="22" fill="#19344e" stroke="#34516b" stroke-width="1"/>
+<text x="113" y="383" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="33" font-weight="400" fill="#ffffff">Compare</text>
+<rect x="290" y="370" width="245" height="42" rx="9" fill="#e8f5f6" stroke="#087f8c" stroke-width="1"/>
+<text x="412.5" y="380" dominant-baseline="hanging" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#087f8c">reference-A.png</text>
+<text x="560" y="383" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="33" font-weight="400" fill="#ffffff">with</text>
+<rect x="660" y="370" width="245" height="42" rx="9" fill="#e8f5f6" stroke="#087f8c" stroke-width="1"/>
+<text x="782.5" y="380" dominant-baseline="hanging" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#087f8c">reference-B.png</text>
+<text x="934" y="383" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="33" font-weight="400" fill="#ffffff">and explain the difference.</text>
+<text x="80" y="552" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#aabed1">A focused interaction layer for DeepSeek Harness</text>
+<text x="1510" y="555" dominant-baseline="hanging" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#79d6d6">EXPERIMENTAL PREVIEW</text>
+</svg>

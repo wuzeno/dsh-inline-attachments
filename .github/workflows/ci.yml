@@ -1,0 +1,26 @@
+name: CI
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    name: Node ${{ matrix.node }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [22, 24]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Build and test
+        run: npm run check
+      - name: Check documentation links
+        run: npm run check:docs
+      - name: Verify committed generated client
+        run: git diff --exit-code -- client.js
+      - name: Package and verify distribution
+        run: npm pack && npm run verify:package

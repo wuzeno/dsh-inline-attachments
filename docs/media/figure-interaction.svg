@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920" role="img">
+<rect width="1600" height="920" fill="#ffffff"/>
+<text x="66" y="48" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#087f8c">FIGURE 2  /  INTERACTION MODEL</text>
+<text x="66" y="92" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" fill="#14283f">Bring the reference closer to the instruction</text>
+<text x="68" y="156" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="400" fill="#52647a">The design goal is explicit context, not another attachment-management panel.</text>
+<text x="66" y="240" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#14283f">(a) Detached attachment rail</text>
+<rect x="66" y="297" width="692" height="370" rx="18" fill="#f7fafc" stroke="#d9e3ed" stroke-width="1"/>
+<text x="840" y="240" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#14283f">(b) Inline attachment references</text>
+<rect x="840" y="297" width="692" height="370" rx="18" fill="#f7fafc" stroke="#d9e3ed" stroke-width="1"/>
+<rect x="105" y="332" width="150" height="42" rx="9" fill="#efedf8" stroke="#4f46a5" stroke-width="1"/>
+<text x="180.0" y="342" dominant-baseline="hanging" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#4f46a5">A.png</text>
+<rect x="278" y="332" width="150" height="42" rx="9" fill="#efedf8" stroke="#4f46a5" stroke-width="1"/>
+<text x="353.0" y="342" dominant-baseline="hanging" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#4f46a5">B.png</text>
+<line x1="104" y1="399" x2="718" y2="399" stroke="#d9e3ed" stroke-width="2"/>
+<text x="105" y="480" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400" fill="#14283f">Compare this image</text>
+<text x="105" y="532" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400" fill="#14283f">with that image.</text>
+<line x1="180" y1="378" x2="180" y2="452" stroke="#4f46a5" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="353" y1="378" x2="353" y2="424" stroke="#4f46a5" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="353" y1="424" x2="286" y2="424" stroke="#4f46a5" stroke-width="2" stroke-dasharray="7 6"/>
+<line x1="286" y1="424" x2="286" y2="518" stroke="#4f46a5" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="412" y="438" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#52647a">mental mapping</text>
+<text x="101" y="608" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#52647a">Words and files live in separate places.</text>
+<text x="879" y="475" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400" fill="#14283f">Compare</text>
+<rect x="1020" y="463" width="124" height="42" rx="9" fill="#e8f5f6" stroke="#087f8c" stroke-width="1"/>
+<text x="1082.0" y="473" dominant-baseline="hanging" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#087f8c">A.png</text>
+<text x="1164" y="475" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400" fill="#14283f">with</text>
+<rect x="1250" y="463" width="124" height="42" rx="9" fill="#e8f5f6" stroke="#087f8c" stroke-width="1"/>
+<text x="1312.0" y="473" dominant-baseline="hanging" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#087f8c">B.png</text>
+<text x="1388" y="475" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400" fill="#14283f">.</text>
+<rect x="1193" y="317" width="262" height="112" rx="12" fill="#ffffff" stroke="#9dcbd0" stroke-width="1"/>
+<text x="1324" y="337" dominant-baseline="hanging" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#087f8c">Image preview</text>
+<line x1="1220" y1="399" x2="1248" y2="377" stroke="#4f46a5" stroke-width="3"/>
+<line x1="1248" y1="377" x2="1280" y2="391" stroke="#4f46a5" stroke-width="3"/>
+<line x1="1280" y1="391" x2="1321" y2="363" stroke="#4f46a5" stroke-width="3"/>
+<line x1="1321" y1="363" x2="1360" y2="380" stroke="#4f46a5" stroke-width="3"/>
+<line x1="1360" y1="380" x2="1419" y2="349" stroke="#4f46a5" stroke-width="3"/>
+<line x1="1312" y1="429" x2="1312" y2="459" stroke="#087f8c" stroke-width="2"/>
+<text x="878" y="608" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#087f8c">The reference is part of the sentence.</text>
+<rect x="66" y="729" width="1466" height="92" rx="12" fill="#f4f7fb" stroke="#d9e3ed" stroke-width="1"/>
+<text x="91" y="749" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#14283f">Design intent</text>
+<text x="91" y="783" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="400" fill="#52647a">Keep the file label next to the instruction it qualifies; reveal image detail on demand.</text>
+<text x="66" y="864" dominant-baseline="hanging" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#52647a">Interaction model illustration; not an empirical usability study.</text>
+</svg>
