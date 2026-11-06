@@ -2,7 +2,9 @@
 
 **Files belong in the sentence.**
 
-A focused interaction layer for DeepSeek Harness: place compact file references at the cursor, reveal image detail on demand, and preserve the relationship between an instruction and its attachments after sending.
+Put files into the sentence you're writing in DSH. Each file appears as a short label; hover to see an image, and keep the same references in the sent message.
+
+You don't have to open a file picker each time. Place the caret where the file belongs, then drag it from your desktop or file manager into the composer. Button selection and paste are available too. Insertion follows the current caret, not an automatically detected pointer drop position.
 
 [中文](README.md) · [Releases](https://github.com/wuzeno/dsh-inline-attachments/releases) · [Architecture](docs/ARCHITECTURE.md) · [MIT](LICENSE)
 
@@ -10,9 +12,9 @@ A focused interaction layer for DeepSeek Harness: place compact file references 
 
 ## Why it matters
 
-“Compare this image with that image” is clearer when the references are visible inside the sentence. A detached attachment rail asks the reader to map words back to files; an inline reference places that association next to the instruction itself.
+When several files sit above a message, “this image” and “that image” can be hard to match to the right attachments. Inline labels make the connection visible.
 
-The ambition is deliberately focused: improve the precision of expression without introducing another attachment-management panel. This is a design rationale, not a measured usability or model-accuracy claim.
+Write until you need a file, place the caret there, and drag it in. You can add another file later in the same sentence without referring to it as “the second attachment”. These are design choices, not measured usability or model-accuracy results.
 
 ![Actual DSH composer](docs/media/screenshot-composer.jpg)
 
@@ -22,7 +24,7 @@ These owner-supplied screenshots show synthetic test data. Any host token counts
 
 ## Highlights
 
-- Native reference chips at the insertion point, rather than a cosmetic DOM overlay.
+- Drag files into the composer and insert them at the current caret, including between words. No file-picker step is required. The labels use native reference chips, not a cosmetic DOM overlay.
 - Compact labels and contextual image previews, with full names available on hover.
 - Real attachments using DSH's existing upload and delivery pipeline.
 - Same-message binding by durable identity or mixed attachment order.
@@ -39,7 +41,7 @@ https://github.com/wuzeno/dsh-inline-attachments
 
 Enable the plugin and look for the inline-attachment button in the composer. You may also use the built npm archive from [Releases](https://github.com/wuzeno/dsh-inline-attachments/releases) or a local clone. The project is **not published to the npm registry**. Follow the host's refresh/restart instructions; the plugin never restarts DSH automatically.
 
-Start with two non-sensitive images: type an instruction, insert the first image, continue typing, and insert the second at its intended position.
+Try two non-sensitive images: type an instruction, place the caret where the first file belongs, and drag that image into the composer. Continue typing, then drag in the second image at the next caret position.
 
 ## Technical illustrations
 
